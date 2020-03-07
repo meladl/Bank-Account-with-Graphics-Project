@@ -1,9 +1,6 @@
 
 
 
-// By Mohamed Eladl
-// Assignment 1 
-// GUI File
 
 public class Test extends javax.swing.JFrame {
   BankAccount checking = new BankAccount(120005,1000);
