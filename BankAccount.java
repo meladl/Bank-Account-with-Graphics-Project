@@ -1,9 +1,6 @@
 
 
 
-// By Mohamed Eladl
-// Assignment 1 
-// Sub-Class
 
 public class BankAccount {
     public BankAccount(int anAccountNumber){
